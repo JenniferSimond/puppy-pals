@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
--Deplyed application: [Link](http://localhost:5173/)
+-Deplyed application: [Link](https://66148532f112713200f363ef--statuesque-biscochitos-2d1067.netlify.app/)
 
 Currently, two official plugins are available:
 
